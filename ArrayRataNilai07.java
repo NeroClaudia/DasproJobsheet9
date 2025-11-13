@@ -36,6 +36,6 @@ public class ArrayRataNilai07 {
         System.out.printf("Rata-rata nilai lulus: %.2f\n", rataLulus);
         System.out.printf("Rata-rata nilai tidak lulus: %.2f", rataTdklulus);
         
-
+        sc.close();
     }
 }
